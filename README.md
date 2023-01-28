@@ -1,3 +1,22 @@
 JasonPowerDB
-[Document 6 (1).docx](https://github.com/samplehit/jass/files/10527714/Document.6.1.docx)
+
+[Documentation Link](http://login2explore.com/jpdb/docs.html)
+
+## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
+
+### About JsonPowerDB:
+
+- JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+
+### Benefits of using JsonPowerDB
+
+- Simplest way to retrieve data in a JSON format.
+- Schema-free, Simple to use, Nimble and In-Memory database.
+- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+- It is low level (raw) form of data and is also human readable.
+- It helps developers in faster coding, in-turn reduces development cost.
+
+
+
+
 ![2023-01-28 (2)](https://user-images.githubusercontent.com/115991136/215277791-1b8a2e28-c670-4749-8cb6-62b087bbc53d.png)
